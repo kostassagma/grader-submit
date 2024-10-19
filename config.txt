@@ -1,0 +1,3 @@
+cookie=<session-cookie>
+task=<taskid>
+filename=<filename>
